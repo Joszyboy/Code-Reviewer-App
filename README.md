@@ -1,1 +1,2 @@
 # Code-Reviewer-App
+I created this app called CodeExpert to assist developers in reviewing Python code for errors and providing feedback. The app aims to improve efficiency in Python programming by offering code improvements and debugging capabilities. CodeExpert is designed for developers of all skill levels and provides detailed analysis of Python code. I showcase the features and functionality of the app, including how it identifies errors and offers solutions.
